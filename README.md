@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamed abdelhai zaki
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning vue.js , python
+- 🌱 I’m currently learning react.js , python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
